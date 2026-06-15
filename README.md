@@ -18,3 +18,26 @@ Design a morphological fallback function for Out-of-Vocabulary (OOV) words. Appl
 Create a custom test sentence containing at least 3 completely fabricated/unseen domain-specific slang words. Use your model to tag the sentence and display the output. (2 Marks)
 
 Discuss the limitations of standard HMMs when dealing with morphologically rich text or noisy domain data. How do morphological fallbacks improve model robustness? (2 Marks)
+
+
+-----
+
+
+GENERAL INSTRUCTIONS
+
+Implementation on the BITS OSHA Virtual Lab is compulsory, and carries 1 mark.
+
+Submit the code along with .pdf/html format with output. Please follow the naming convention as [Group no].pdf. Example for group 1 should be named as - Group1.pdf.
+
+Include group details like team members' names, BITS ID, and contribution percentages.
+
+All members of the group will work on the same problem statement. Each group should upload in Taxila in respective locations under ASSIGNMENT Tab. Assignments submitted via means other than through Taxila will not be graded.
+
+One student per group is requested to submit your assignment.
+
+ANY REEVAL REQUEST FOR THE ASSIGNMENT WILL BE ACCEPTED ONLY WITHIN 10 days from the date of evaluation.
+
+Any queries related to this problem statement should be addressed to Gourav Sharma (gouravsharma@wilp.bits-pilani.ac.in), Course LF.
+
+Each group must choose a publicly available dataset corresponding to their assigned domain. Mention the source/link of your chosen dataset clearly in your submission.
+
